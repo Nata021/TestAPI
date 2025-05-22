@@ -1,0 +1,56 @@
+{
+    "lists": [
+        {
+            "id": "901511348443",
+            "name": "Daryl",
+            "orderindex": 80,
+            "content": "GB Producer",
+            "status": null,
+            "priority": null,
+            "assignee": null,
+            "task_count": 0,
+            "due_date": null,
+            "start_date": null,
+            "folder": {
+                "id": "90156792903",
+                "name": "Folder01",
+                "hidden": false,
+                "access": true
+            },
+            "space": {
+                "id": "90154478083",
+                "name": "Team Space",
+                "access": true
+            },
+            "archived": false,
+            "override_statuses": false,
+            "permission_level": "create"
+        },
+        {
+            "id": "901511348447",
+            "name": "Anabelle",
+            "orderindex": 81,
+            "content": "Engineer Wisconsin Berkshire Berkshire blockchains",
+            "status": null,
+            "priority": null,
+            "assignee": null,
+            "task_count": 0,
+            "due_date": null,
+            "start_date": null,
+            "folder": {
+                "id": "90156792903",
+                "name": "Folder01",
+                "hidden": false,
+                "access": true
+            },
+            "space": {
+                "id": "90154478083",
+                "name": "Team Space",
+                "access": true
+            },
+            "archived": false,
+            "override_statuses": false,
+            "permission_level": "create"
+        }
+    ]
+}
