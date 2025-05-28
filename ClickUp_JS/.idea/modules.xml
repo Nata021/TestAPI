@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ClickUp.iml" filepath="$PROJECT_DIR$/.idea/ClickUp.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Cypress.iml" filepath="$PROJECT_DIR$/.idea/Cypress.iml" />
     </modules>
   </component>
